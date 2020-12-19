@@ -47,7 +47,7 @@ class MainKtTest{
         val amount = 10000
         val type = "vk pay"
         val prevAmount = 2000
-        val expectedComission = 0
+        val expectedComission = 10
 
         val resultComission = (typeComission(type = type, amount = amount, prevAmount = prevAmount)).toInt()
         assertEquals(expectedComission, resultComission)
