@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-19T20:19:51" hostname="DESKTOP-7554HR2" time="0.003">
+  <properties/>
+  <testcase name="typeComissionVisaMirLess35" classname="MainKtTest" time="0.003"/>
+  <testcase name="typeComissionVisaMirMore35" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeComissionMaestroMastercardWithoutComission" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeComissionVkpay" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeComissionMaestroMastercardComission" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
